@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TealiumBattery</string>
+
+    <string name="BatteryLevel">Your Battery is at:</string>
+    <string name="ChargeState">Your Phone is</string>
+    <string name="action_settings">Settings</string>
+</resources>
